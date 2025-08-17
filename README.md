@@ -1,6 +1,6 @@
 # Propensity Score Matching Project 
 Methods
-1. Data Cleaning & Preprocessing
+1. Data Cleaning & Preprocessing  
 Handled missing values and outliers
 Standardized variable formats and merged tables from PostgreSQL queries
 
