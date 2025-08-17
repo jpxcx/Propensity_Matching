@@ -1,10 +1,10 @@
 # Propensity Score Matching Project 
 Methods
-1. Data Cleaning & Preprocessing
+**1. Data Cleaning & Preprocessing**
 
-Handled missing values and outliers
+- Handled missing values and outliers
 
-Standardized variable formats and merged tables from PostgreSQL queries
+- Standardized variable formats and merged tables from PostgreSQL queries
 
 3. Exploratory Data Analysis (EDA)
 Visualized buyer and seller behavior distributions
