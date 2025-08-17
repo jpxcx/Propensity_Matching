@@ -16,7 +16,7 @@
 - Assessed covariate balance post-matching
 - Compared outcome variables to estimate treatment effects
 
-**Key Results**
+**6. Key Results**
 - Improved covariate balance after matching (bias reduced across major variables).
 - Evidence of a measurable causal impact of the policy change on key buyer/seller metrics.
 - XGBoost provided better separation and covariate balance compared to logistic regression in this dataset.
